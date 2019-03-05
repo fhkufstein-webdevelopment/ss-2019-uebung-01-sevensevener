@@ -28,5 +28,5 @@ In Git bezeichnet man mit XXX die Zwischenstufe zwischen YYYY und ZZZZ mit welch
 
 In Git bezeichnet man mit AAAA einen Entwicklungszweig. Nützlich zur Entwicklung neuer Features aber auch zur Behebung von Bugs.
 
-Git ist ein XXXX. Wir haben auch andere prominente Beispiele kennengelernt. Nennen Sie 2 weitere.
+Git ist ein XXXX. Nennen Sie 2 weitere.
 
